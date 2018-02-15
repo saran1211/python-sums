@@ -1,5 +1,3 @@
 string = "HELLO"
-
 print (string[::-1])
-
 print (string[0:6:-1])
